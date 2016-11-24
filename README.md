@@ -1,4 +1,4 @@
-# training-mocking
+# Mocking
 Repository containing some examples for the following test doubles using mocha and sinon:
 * Fake
 * Dummy
