@@ -51,7 +51,7 @@ describe('When using several mocking techniques:', function() {
 			assert.equal(true, options.validator.calledOnce)
 		});
 
-		// Mocks are objects behave like spies but have integrated assertions within them
+		// Mocks are objects that behave like spies but have integrated assertions within them
 		it('Mocks', function() {
 			var options = {
 				validator: function() {
